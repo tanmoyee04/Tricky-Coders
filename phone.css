@@ -1,0 +1,16 @@
+.logo-caption {
+    display: none;
+}
+
+/*body {
+    
+}*/
+
+#navbar {
+    flex-direction: column;
+}
+
+.navbar-links {
+    display: flex;
+    flex-direction: column;
+}
